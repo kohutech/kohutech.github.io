@@ -1,2 +1,2 @@
 # website
-Kohus static website
+Kohu's static website
